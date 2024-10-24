@@ -1,0 +1,9 @@
+port: "8000"
+
+db:
+  username: "myuser"
+  host: "localhost"
+  port: "5432"
+  dbname: "gRPCProxy"
+  sslmode: "disable"
+  password: "BXa[tUNL94~/T5Ba)Ku^"
